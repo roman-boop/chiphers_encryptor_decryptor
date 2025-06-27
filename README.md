@@ -66,8 +66,9 @@ A console-based C++ application that implements 9 classic encryption algorithms.
 5. If required, enter a key
 6. View both encrypted and decrypted results
 
-or just run "chiphers.exe"
+
 ---
+You can also just run "chiphers.exe" file and use the programm without opening .sln project.
 
 ## 🛠️ Requirements
 
